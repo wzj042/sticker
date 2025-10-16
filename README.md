@@ -12,3 +12,8 @@
 - 调试绘制工作流相关工具
 - 编写数据抓取脚本作为进度激励
 - 引入 [activitywatch](https://github.com/ActivityWatch/activitywatch) 分析项目时间实际使用情况，结合 git hook api ……（anyway）脚本获取仓库文件情况来确认实际工作量。
+- 整理已有相关笔记、文档、作品
+
+## 采集相关经验
+
+- 搜索「微信表情 审核时间 坑 经验」（小红书看起来相关经验会更多）
