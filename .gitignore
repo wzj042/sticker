@@ -1,2 +1,7 @@
 # vscode history
 .history
+
+# nodejs
+node_modules
+
+.env
